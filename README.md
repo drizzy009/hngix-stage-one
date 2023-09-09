@@ -16,8 +16,8 @@ This web page displays personal information along with real-time data attributes
 ## Features
 
 - Real-time display of the current day of the week and time in Nigeria's timezone.
-- A link to the author's GitHub repository.
-- Responsive design for various screen sizes.
+- Link to the GitHub repository.
+- Responsive for various screen sizes.
 
 ## Screenshot
 
@@ -28,7 +28,6 @@ This web page displays personal information along with real-time data attributes
 - HTML
 - CSS
 - JavaScript
-- Timezone information from `Intl.DateTimeFormat`
 
 ## How to Use
 
